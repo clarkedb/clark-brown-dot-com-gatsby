@@ -1,5 +1,3 @@
-# clark-brown-dot-com
+# clark-brown-dot-com-gatsby
 
-![Firebase CI](https://github.com/clarkedb/clark-brown-dot-com/workflows/Firebase%20CI/badge.svg?branch=master)
-
-Source code for [clark-brown.com](https://clark-brown.com/)
+Source code for old portfolio site built on Gatsby and deployed to Firebase [clark-brown.firebaseapp.com](https://clark-brown.firebaseapp.com/)
